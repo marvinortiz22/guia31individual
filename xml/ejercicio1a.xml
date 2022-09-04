@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?> 
+<?xml-stylesheet type="text/css" href="../css/ejercicio1a.css" ?>
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+<ficha id="2" fechaingreso="03/09/2022">
+<nombre>Marvin</nombre>
+<apellido>Ortiz</apellido>
+<direccion>San Martin, San Salvador</direccion>
+<telefono>61469737</telefono>
+<email>oc20013@ues.edu.sv</email>
+<website_personal>https://marvinortiz22.github.io/tpiGuia23c/</website_personal>
+</ficha>
+</fichero> 

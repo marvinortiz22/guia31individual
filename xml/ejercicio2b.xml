@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="../css/ejercicio2b.css" ?>
+<pais nombre="El Salvador">
+<departamento id="1" nombre="San Salvador">
+<nombre>San Salvador</nombre>
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+<departamento id="2" nombre="Cuscatlan">
+<nombre>Cuscatlan</nombre>
+<cabecera>Cojutepeque</cabecera>
+<habitantes>216466</habitantes>
+<altura>588 MSNM</altura>
+<moneda>Dolar</moneda>
+<codTelefonico>+503</codTelefonico>
+<idioma oficial="Español"/>
+<AreaTerritorial>756km2</AreaTerritorial>
+</departamento>
+<departamento id="3" nombre="La Libertad">
+<nombre>La Libertad</nombre>
+<cabecera>Santa Tecla</cabecera>
+<habitantes>660653</habitantes>
+<altura>493 MSNM</altura>
+<moneda>Dolar</moneda>
+<codTelefonico>+503</codTelefonico>
+<idioma oficial="Español"/>
+<AreaTerritorial>1653km2</AreaTerritorial>
+<Ndemunicipios>22</Ndemunicipios>
+</departamento>
+</pais>

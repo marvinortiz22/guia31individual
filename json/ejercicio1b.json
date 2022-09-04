@@ -1,0 +1,36 @@
+{
+	"fichero":{"ficha":[
+			{
+				"@id":"1",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Antonio",
+				"apellido":"Barbero",
+				"direccion":"Calle de Los Andes, 45"
+			},
+			{
+				"@id":"2",
+				"@fechaingreso":"03/09/2022",
+				"nombre":"Marvin",
+				"apellido":"Ortiz",
+				"direccion":"San Martin, San Salvador",
+				"telefono":"00000000",
+				"email":"oc20013@ues.edu.sv",
+				"website_personal":"https://marvinortiz22.github.io/tpiGuia23c/"
+			},
+			{
+				"@id":"3",
+				"@fechaingreso":"03/09/2022",
+				"nombre":"Pedro",
+				"apellido":"Sanchez",
+				"direccion":"San Martin, San Salvador",
+				"telefono":"00000000",
+				"email":"pedro@gmail.com",
+				"website_personal":"https://marvinortiz22.github.io/tpiGuia23c/",
+				"documentacion":{
+					"@dui":"12345678-9",
+					"@isss":"",
+					"@afp":""
+				}
+			}
+		]}
+}

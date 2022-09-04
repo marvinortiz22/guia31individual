@@ -1,0 +1,37 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"Cuscatlan",
+				"cabecera":"Cojutepeque",
+				"habitantes":"216466",
+				"altura":"588 MSNM",
+				"moneda":"Dolar",
+				"codTelefonico":"+503",
+				"idioma":{"@oficial":"Español"},
+				"AreaTerritorial":"756km2"
+			},
+			{
+				"@id":"3",
+				"@nombre":"La Libertad",
+				"cabecera":"Santa Tecla",
+				"habitantes":"660653",
+				"altura":"493 MSNM",
+				"moneda":"Dolar",
+				"codTelefonico":"+503",
+				"idioma":{"@oficial":"Español"},
+				"AreaTerritorial":"1653km2",
+				"Ndemunicipios":"22"
+			}
+		]
+	}
+}
